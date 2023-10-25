@@ -11,6 +11,9 @@ import Foundation
 enum Constant {
     static let appName = "Hidden Bar"
     static let launcherAppId = "com.dwarvesv.LauncherApplication"
+    static let mainAppId = "com.dwarvesv.minimalbar"
+    static let category = "Utility"
+
     
     static var isUsingLTRLanguage = false
 }
